@@ -24,5 +24,10 @@
 - [Nigria's Covid 19 Analysis](https://github.com/Atinukecodes/nigeria-covid19-analysis)  
 
 ---
+### Streak Stats
+![GitHub Streak](https://streak-stats.demolab.com?user=Atinukecodes&theme=radical)
+
+---
+
 
 💡 *“Always learning. Always building. Always sharing.”*  
