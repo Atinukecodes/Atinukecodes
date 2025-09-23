@@ -21,11 +21,11 @@
 ### Featured Projects  
 - [Employee Travel & Demographics Analysis](https://github.com/Atinukecodes/Bisson-Exports)  
 -  [Top Female Artists' Concerts](https://github.com/Atinukecodes/women-concert-tour-cleaning)  
-- [Nigria's Covid 19 Analysis](https://github.com/Atinukecodes/nigeria-covid19-analysis)  
+- [Nigeria's Covid 19 Analysis](https://github.com/Atinukecodes/nigeria-covid19-analysis)  
 
 ---
 ### Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=Atinukecodes&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com?user=Atinukecodes&theme=tokyonight)
 
 ---
 
