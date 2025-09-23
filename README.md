@@ -13,15 +13,15 @@
 ### 📈 GitHub Stats  
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)  
 
-### 🔥 Top Languages  
+### Top Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)  
 
 ---
 
-### 🌟 Featured Projects  
-- 🛫 [Employee Travel & Demographics Analysis](https://github.com/YOUR_USERNAME/employee-travel-analysis)  
-- 📉 [Fraud Detection with Ensemble Models](https://github.com/YOUR_USERNAME/fraud-detection)  
-- 🍷 [Wine Quality Prediction](https://github.com/YOUR_USERNAME/wine-quality)  
+### Featured Projects  
+- [Employee Travel & Demographics Analysis](https://github.com/Atinukecodes/Bisson-Exports)  
+-  [Top Female Artists' Concerts](https://github.com/Atinukecodes/women-concert-tour-cleaning)  
+- [Nigria's Covid 19 Analysis](https://github.com/Atinukecodes/nigeria-covid19-analysis)  
 
 ---
 
