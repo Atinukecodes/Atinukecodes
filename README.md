@@ -11,11 +11,10 @@
 ---
 
 ### GitHub Stats  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atinukecodes&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Atinukecodes&show_icons=true&theme=radical)
 
 ### Top Languages  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Atinukecodes&layout=compact&theme=tokyonight)  
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Atinukecodes&layout=compact&theme=radical)
 ---
 
 ### Featured Projects  
@@ -25,7 +24,7 @@
 
 ---
 ### Streak Stats
-![GitHub Streak](https://streak-stats.demolab.com?user=Atinukecodes&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=Atinukecodes&theme=radical)
 
 ---
 
