@@ -29,4 +29,4 @@
 ---
 
 
-💡 *“Always learning. Always building. Always sharing.”*  
+💡 *“Always learning. Always building”*  
